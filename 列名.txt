@@ -1,0 +1,3 @@
+'time', 'gun_no','W_Error','C_Cylinder_force','C_Differential_pressure','W Friction','W Maximum_aperture','W_ Maximum_electrode_force','W_Start friction
+W_us2','W_Welding_point_count',' W_position_count','area','in_Counterbalance_pressure','in_Electrode_force','in Electrode_position','in Sheet thickness',
+'in Velocity','in_force_build_up,'out_Cap_offset','out Electrode force','out_Electrode_position','out_force_build_up'
